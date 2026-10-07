@@ -20,9 +20,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 👋 关于我 / About Me
+## 👋 關於我 / About Me
 
-你好！我是 **SAMCYK0921**，来自 **香港科技大学（HKUST）**，是一名 AI / 算法方向的学习者与实践者。
+你好！我是 **SAM.CHEUNG**，来自 **香港科技大学（HKUST）**，是一名 AI / 算法方向的学习者与实践者。
 
 我着迷于让机器学会「思考」这件事——从经典的机器学习算法，到今天的**大语言模型（LLM）**与**智能体（Agent）系统**。比起停留在纸面上的公式，我更享受把论文里的想法，一行行写成真正能跑起来、能解决问题的代码。
 
@@ -33,7 +33,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🛠️ 技术栈 / Tech Stack
+## 🛠️ 技術棧 / Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,pytorch,tensorflow,docker,git,linux,vscode,react&theme=dark" alt="Tech Stack" />
