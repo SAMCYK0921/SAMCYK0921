@@ -70,7 +70,7 @@ My daily state: **C++ / Python** for ROS2 and embedded development, **PyTorch** 
 
 | 领域 | 关注点 |
 | :--- | :--- |
-| **Establishment of high-speed fitting model** | 流過耦合數學模型構建 |
+| **Establishment of high-speed fitting model** | 流固耦合數學模型構建 |
 | **Large Language Models** | 参数高效微调（LoRA / SFT）、推理加速、对齐与安全 |
 | **RAG & AI Agents** | 检索增强生成、工具调用、多智能体协作与编排 |
 | **Computer Vision / NLP** | 多模态表征学习、视觉-语言对齐 |
