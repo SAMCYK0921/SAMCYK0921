@@ -22,16 +22,11 @@
 
 ## 👋 關於我 / About Me
 
-你好！我是 **SAM.CHEUNG**，來自 **香港科技大學（HKUST）** 的一名 硬件工程師 / 嵌入式工程師 / VLA開發者 / 預測(先驗)模型工程師。
+你好！我是 **SAM.CHEUNG**，來自 **香港科技大學（HKUST）** 的一名 **IEEE Member** / 嵌入式工程師 / VLA開發者 / 預測(先驗)模型工程師。
 
-**IEEE Member**
+I'm fascinated by making machines truly "think" — from classic embedded control, to today's **predictive foundation models** and **VLA (Vision-Language-Action) systems**. Rather than staying with formulas on paper, I enjoy turning ideas from research papers into code that actually runs and solves real-world problems.
 
-我着迷于让机器学会「思考」这件事——从经典的机器学习算法，到今天的**大语言模型（LLM）**与**智能体（Agent）系统**。比起停留在纸面上的公式，我更享受把论文里的想法，一行行写成真正能跑起来、能解决问题的代码。
-
-日常状态是：用 **Python** 建模与实验，用 **C++ / Java** 打磨性能，用 **R** 做严谨的统计推断，偶尔用 **TypeScript** 把模型包装成人人可用的产品。
-
-> **数据 + 算法 + 工程 = 真正的智能。**  
-> Turning equations into systems that actually work.
+My daily state: **C++ / Python** for ROS2 and embedded development, **PyTorch** for building predictive models and VLA architectures, **MATLAB / Python** for simulation and mathematical model optimization, and occasionally **TypeScript** to wrap models into products anyone can use.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
@@ -75,27 +70,24 @@
 
 | 领域 | 关注点 |
 | :--- | :--- |
-| **Machine Learning / Deep Learning** | 模型结构设计、训练稳定性、可解释性 |
+| **Establishment of high-speed fitting model** | 流過耦合數學模型構建 |
 | **Large Language Models** | 参数高效微调（LoRA / SFT）、推理加速、对齐与安全 |
 | **RAG & AI Agents** | 检索增强生成、工具调用、多智能体协作与编排 |
 | **Computer Vision / NLP** | 多模态表征学习、视觉-语言对齐 |
 | **Statistical Modeling** | 统计推断、实验设计与因果分析（R / Python） |
 
-## 🌱 正在探索 / Currently Exploring
+## 🌱 正在 / Currently Exploring
 
-- 🔍 **RAG + Agent 系统**的架构设计与工程落地
-- ⚡ **大模型推理优化**：量化、蒸馏、KV Cache 与显存管理
-- 🧠 **多模态大模型（VLM）**与跨模态对齐
-- 📄 精读顶会论文（NeurIPS / ICML / ICLR / ACL）并动手复现
-- 🛠️ 把模型封装成**可靠、可观测、可扩展**的生产服务
+- 🔍 **RAG + Agent 系统** 架構設計+工程落地
+- ⚡ **大模型推理優化**：量化、蒸餾、KV Cache 與顯存管理
+- 🧠 **多模態大模型(VLM)** 與VAL開發與調試
+- 📄 **論文撰寫** 流程圖/poster繪製+結構優化
+- 🛠️ 把模型封装成 **可靠、可观测、可扩展** 的生產鏈路
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## 📫 找到我 / Let's Connect
-
-yzhangxp@connect.ust.hk
-
-欢迎交流 AI、算法、科研与合作，我通常回复得很快 ⚡
+歡迎交流 AI、物理模型構建、方位解算、科研與合作，我通常回覆得很快 ⚡
 
 <p align="center">
   <a href="mailto:yzhangxp@connect.ust.hk"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -109,7 +101,7 @@ yzhangxp@connect.ust.hk
 
 <div align="center">
 
-⭐ 如果觉得有意思，欢迎给我的仓库点个 Star &nbsp;·&nbsp; Thanks for visiting!
+⭐ 快他媽給我的倉庫點個 Star &nbsp;·&nbsp; Thanks for visiting!
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" alt="footer" />
 
