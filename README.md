@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+SAMCYK0921;AI+%26+Algorithm+Enthusiast;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+LLM;Turning+Data+into+Intelligence" alt="Typing SVG" />
 
 <h3>
-  🎓 HKUST &nbsp;·&nbsp; 🤖 AI &amp; Algorithm &nbsp;·&nbsp; 📊 Data-Driven
+  🎓 HKUST &nbsp;·&nbsp; 🤖 Embedded &amp; Algorithm &nbsp;·&nbsp; 📊 Prediction model
 </h3>
 
 <p align="center">
