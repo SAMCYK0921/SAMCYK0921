@@ -91,7 +91,8 @@
 
 ## 📫 找到我 / Let's Connect
 
-yzhangxp@connect.ust,hk
+yzhangxp@connect.ust.hk
+
 欢迎交流 AI、算法、科研与合作，我通常回复得很快 ⚡
 
 <p align="center">
